@@ -359,3 +359,7 @@ footer {
     margin-bottom: 1.3rem;
 
 }
+.plan:hover{
+    transform: translateY(-5px);
+    /* box-shadow: 0 0 18px rgba(0, 250, 255, 0.25); */
+}
