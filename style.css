@@ -362,4 +362,9 @@ footer {
 .plan:hover{
     transform: translateY(-5px);
     box-shadow: 0 0 18px rgba(0, 250, 255, 0.25);
+    transition: ease-in-out 0.2s;
+}
+.plan button:hover{
+    background-color: rgba(0, 250, 255, 0.25);;
+    transition: ease-in-out 0.2s;
 }
